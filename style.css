@@ -1,26 +1,26 @@
 html, body {
-        background:#153131;
-        font-family: Calibri(Body), Arial;
+        background: #0B132B;
+        font-family: arial;
         font-size: 16px;
-        color: #FF5964;
+        color: #50AAA9;
 }
 
 p {
   font-size: 1em;
   line-height: 1.4em;
   margin-bottom: 20px;
-  color:#35A7FF;
+  color:#709CD1;
 }
 
 #container {
         width:90%;
         max-width: 800px;
-        background:0B132B;
+        background: 1C2541;
         margin: 30px auto;
         padding: 30px;
 }
 
 section {
-        border-top: 1px solid #1E2B48;
+        border-top: 1px solid #5BC0BE;
         padding: 20px 0 0;
 }
