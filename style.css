@@ -12,6 +12,14 @@ p {
   color:#35A7FF;
 }
 
+#container {
+        width:90%
+        max-width: 800px;
+        background:0B132B;
+        margin: 30px auto;
+     padding: 30px;
+}
+
 section {
         border-top :1px solid #1E2B48;
         padding: 20px 0 0;
