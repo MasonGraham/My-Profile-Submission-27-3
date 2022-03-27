@@ -5,6 +5,10 @@ html, body {
         color: #FF5964;
 }
 
+{
+display:block;
+}
+
 p {
   font-size: 1em;
   line-height: 1.4em;
