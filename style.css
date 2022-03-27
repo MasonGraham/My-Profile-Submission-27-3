@@ -5,10 +5,6 @@ html, body {
         color: #FF5964;
 }
 
-{
-display:block;
-}
-
 p {
   font-size: 1em;
   line-height: 1.4em;
@@ -17,7 +13,7 @@ p {
 }
 
 #container {
-        width:90%
+        width:90%;
         max-width: 800px;
         background:0B132B;
         margin: 30px auto;
@@ -25,6 +21,6 @@ p {
 }
 
 section {
-        border-top :1px solid #1E2B48;
+        border-top: 1px solid #1E2B48;
         padding: 20px 0 0;
 }
