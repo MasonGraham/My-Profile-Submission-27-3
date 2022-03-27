@@ -1,14 +1,15 @@
 html, body {
+        background:#FFEDDF;
         font-family: Calibri(Body), Arial;
         font-size: 16px;
         color: #FF5964;
 }
 
 p {
-        font-size: 1em;
-        line-height: 1.4em;
-        margin-bottom: 20px;
-        color:#35A7FF;
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color:#35A7FF;
 }
 
 section {
